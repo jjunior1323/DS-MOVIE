@@ -64,7 +64,7 @@
     }
     
     #dsmovie-card-list{
-        padding:40px;
+        padding:40px 10px;
 
     }
 
@@ -86,7 +86,7 @@
         align-items: center;
         border-radius: 0 0 8px 8px;
         justify-content: space-between;
-        min-height: 220px;
+        min-height: 190px;
 
     }
     .dsmovie-card-description h3{
